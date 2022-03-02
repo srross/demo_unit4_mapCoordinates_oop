@@ -1,0 +1,15 @@
+C:\gc_repos\demo_unit4_mapCoordinates_oop\obj\Debug\net6.0\demo_unit4_mapCoordinates_oop.csproj.AssemblyReference.cache
+C:\gc_repos\demo_unit4_mapCoordinates_oop\obj\Debug\net6.0\demo_unit4_mapCoordinates_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\gc_repos\demo_unit4_mapCoordinates_oop\obj\Debug\net6.0\demo_unit4_mapCoordinates_oop.AssemblyInfoInputs.cache
+C:\gc_repos\demo_unit4_mapCoordinates_oop\obj\Debug\net6.0\demo_unit4_mapCoordinates_oop.AssemblyInfo.cs
+C:\gc_repos\demo_unit4_mapCoordinates_oop\obj\Debug\net6.0\demo_unit4_mapCoordinates_oop.csproj.CoreCompileInputs.cache
+C:\gc_repos\demo_unit4_mapCoordinates_oop\bin\Debug\net6.0\demo_unit4_mapCoordinates_oop.exe
+C:\gc_repos\demo_unit4_mapCoordinates_oop\bin\Debug\net6.0\demo_unit4_mapCoordinates_oop.deps.json
+C:\gc_repos\demo_unit4_mapCoordinates_oop\bin\Debug\net6.0\demo_unit4_mapCoordinates_oop.runtimeconfig.json
+C:\gc_repos\demo_unit4_mapCoordinates_oop\bin\Debug\net6.0\demo_unit4_mapCoordinates_oop.dll
+C:\gc_repos\demo_unit4_mapCoordinates_oop\bin\Debug\net6.0\ref\demo_unit4_mapCoordinates_oop.dll
+C:\gc_repos\demo_unit4_mapCoordinates_oop\bin\Debug\net6.0\demo_unit4_mapCoordinates_oop.pdb
+C:\gc_repos\demo_unit4_mapCoordinates_oop\obj\Debug\net6.0\demo_unit4_mapCoordinates_oop.dll
+C:\gc_repos\demo_unit4_mapCoordinates_oop\obj\Debug\net6.0\ref\demo_unit4_mapCoordinates_oop.dll
+C:\gc_repos\demo_unit4_mapCoordinates_oop\obj\Debug\net6.0\demo_unit4_mapCoordinates_oop.pdb
+C:\gc_repos\demo_unit4_mapCoordinates_oop\obj\Debug\net6.0\demo_unit4_mapCoordinates_oop.genruntimeconfig.cache

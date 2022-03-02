@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8cbc37fc-3f1b-46f5-8401-5b24c6d9fed0": {
+      "ProjectGuid": "8cbc37fc-3f1b-46f5-8401-5b24c6d9fed0",
+      "DisplayName": "demo_unit4_mapCoordinates_oop",
+      "ColorIndex": 0
+    },
+    "9dd02c2a-ddf4-4284-a197-5de28b78a679": {
+      "ProjectGuid": "9dd02c2a-ddf4-4284-a197-5de28b78a679",
+      "DisplayName": "ex42_Points",
+      "ColorIndex": 1
+    },
+    "8c1dffd2-70f4-4556-95c0-edc1236617c5": {
+      "ProjectGuid": "8c1dffd2-70f4-4556-95c0-edc1236617c5",
+      "DisplayName": "ex43_CalculateDistance",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
